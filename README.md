@@ -9,7 +9,7 @@ https://ziwibook.netlify.app
 
 ### Author Links
 
-👋 Hello, I'm Mohamed Zhioua.
+👋 Hello, I'm Andrew Rammit.
 If you're looking to hire a dedicated, hardworking MERN stack developer, I would love to 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 and discuss opportunities for 𝐟𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐞 𝐰𝐨𝐫𝐤 or 𝐫𝐞𝐦𝐨𝐭𝐞 𝐣𝐨𝐛 opportunities 👨‍💼. Feel free to reach out to me via DM, and I look forward to connecting 🤝 with you.
 
 
@@ -77,10 +77,10 @@ If you're looking to hire a dedicated, hardworking MERN stack developer, I would
 ---
 
 ## Screenshots
-<img src="https://github.com/mohamedzhioua/ZIWIBook/blob/main/screenshots/ziwibook12.png" >
-<img src="https://github.com/mohamedzhioua/ZIWIBook/blob/main/screenshots/ziwibook11.png" >
-<img src="https://github.com/mohamedzhioua/ZIWIBook/blob/main/screenshots/ziwibook13.png" >
-<img src="https://github.com/mohamedzhioua/ZIWIBook/blob/main/screenshots/ziwibook7.png" >
+<img src="https://github.com/talent-king/ZIWIBook/blob/main/screenshots/ziwibook12.png" >
+<img src="https://github.com/talent-king/ZIWIBook/blob/main/screenshots/ziwibook11.png" >
+<img src="https://github.com/talent-king/ZIWIBook/blob/main/screenshots/ziwibook13.png" >
+<img src="https://github.com/talent-king/ZIWIBook/blob/main/screenshots/ziwibook7.png" >
 
 
 ---
@@ -90,7 +90,7 @@ If you're looking to hire a dedicated, hardworking MERN stack developer, I would
 - Fork & Clone the repository
 
 ```bash
-git clone https://github.com/mohamedzhioua/ZIWIBook.git
+git clone https://github.com/talent-king/ZIWIBook.git
 ```
 
 - Cd into the directories & Install the dependencies (server /client)
